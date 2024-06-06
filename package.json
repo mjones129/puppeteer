@@ -1,0 +1,14 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "description": "browser automation",
+  "main": "test.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Matt Jones",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^22.10.0"
+  }
+}

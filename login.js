@@ -8,7 +8,7 @@ const creds = require('./creds.js');
     const page = await browser.newPage();
 
     // Navigate to the WordPress login page
-    await page.goto('https://paulastgeorge.com/wp-login.php', { waitUntil: 'networkidle2' });
+    await page.goto(creds.url, { waitUntil: 'networkidle2' });
 
     // Enter username
     await page.type('#user_login', creds.user); // Replace with your username

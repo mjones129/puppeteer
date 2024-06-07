@@ -9,6 +9,7 @@
   "author": "Matt Jones",
   "license": "ISC",
   "dependencies": {
+    "commander": "^12.1.0",
     "puppeteer": "^22.10.0"
   }
 }

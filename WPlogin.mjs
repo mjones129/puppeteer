@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 import Creds from "./example-creds.mjs"; //replace this import with your real creds file
 import puppeteer from 'puppeteer';
 import {program} from 'commander'; //commander is used to accept command line arguments

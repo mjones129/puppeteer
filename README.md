@@ -5,6 +5,7 @@ Tired of manually looking up usernames and passwords and login URLs from a datab
 ## Prerequisites
 
 **NodeJS**: >=18
+**Chromium**: >=85
 
 ## Installation
 

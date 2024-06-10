@@ -2,6 +2,10 @@
 
 Tired of manually looking up usernames and passwords and login URLs from a database? Can't remember the URL of that site exactly? What if you could open `/wp-admin` with a one-liner right from the terminal? Well now you can.
 
+## Prerequisites
+
+**NodeJS**: >=18
+
 ## Installation
 
 1. Clone the repository:
